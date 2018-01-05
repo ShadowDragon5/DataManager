@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"de",
+				"degrees"
+			],
+			[
+				"cur",
+				"curr"
+			],
+			[
+				"Ve",
+				"Vec3"
+			],
+			[
+				"e",
+				"elif\telse if"
+			],
+			[
+				"c",
+				"cl\tclass"
+			],
+			[
+				"fil",
+				"file\tOpens file"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"ore",
+				"orderBy"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"orde",
+				"orderBy"
+			],
+			[
+				"fir",
+				"fireTime"
+			],
+			[
+				"fire",
+				"fireCount"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"fi",
+				"file\tOpens file"
+			],
+			[
+				"for",
+				"fori\tcpp-for"
+			],
+			[
+				"Fir",
+				"FireTime"
+			],
+			[
+				"Gen",
+				"GenValues"
+			],
+			[
+				"coll",
+				"collCount"
+			],
+			[
+				"Fill",
+				"FillList"
+			],
+			[
+				"Coll",
+				"CollCount"
+			],
+			[
+				"t",
+				"try\tTry/Except/Finally"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Score.py",
+			"settings":
+			{
+				"buffer_size": 2835,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import ",
+			"file": "Graphs.py",
+			"file_size": 0,
+			"file_write_time": 131596571615073580,
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Sorting.py",
+			"settings":
+			{
+				"buffer_size": 1157,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DataManager.py",
+			"settings":
+			{
+				"buffer_size": 308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Errors.py",
+			"settings":
+			{
+				"buffer_size": 170,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "score.txt",
+			"settings":
+			{
+				"buffer_size": 1869,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++_Run.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_Run.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaRun.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JavaRun.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Py.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Py.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/PyPortable.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PyPortable.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: else if"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"pac co i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pi ",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 360.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/DataManager"
+	],
+	"file_history":
+	[
+		"/F/Apps/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
+		"/C/Users/Laurynas/Documents/Python/Data.log",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/_DataManager/RotTest.py",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/_DataManager/Errors.py",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/completions/general.sublime-completions",
+		"/C/Users/Laurynas/Documents/Python/ESJMK/score.txt",
+		"/C/Users/Laurynas/Documents/C++/Mokyklai/Piestukai.cpp",
+		"/C/Users/Laurynas/Downloads/They.Are.Billions.v0.5.0.30/They Are Billions/Cursors/CursorArrow.cur",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Assets/_Scripts/Lambdas/GeneDecissionSelectionLambdas.cs",
+		"/F/Apps/SublimeText3/Data/Packages/User/JavaRun.sublime-build",
+		"/F/Apps/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
+		"/F/Apps/SublimeText3/Data/Packages/User/Package Control.last-run",
+		"/F/Apps/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/F/Apps/SublimeText3/Data/Packages/User/PyPortable.sublime-build",
+		"/F/Apps/SublimeText3/Data/Packages/User/C++ Portable.sublime-build",
+		"/F/Apps/SublimeText3/Data/Packages/User/completions/general.sublime-completions",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Laurynas/Documents/Python/ESJMK/DataManager.sublime-workspace",
+		"/C/Users/Laurynas/Documents/Python/ESJMK/DataManager.sublime-project",
+		"/C/Users/Laurynas/Documents/Python/ESJMK/Score.py",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.227/__magic__.sublime-snippet",
+		"/C/Users/Laurynas/Documents/Python/ESJMK/Sorting.py",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.613/New-Class.sublime-snippet",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.519/New-Class.sublime-snippet",
+		"/D/Java/Program.java",
+		"/H/Python/ESJMK/DataManager.sublime-project",
+		"/C/Users/Laurynas/Documents/Visual Studio 2017/Projects/JKM_ITVBE/Taupymas.cpp",
+		"/C/Users/Laurynas/Documents/Visual Studio 2017/Projects/JKM_ITVBE/Duomenys.txt",
+		"/C/Users/Laurynas/Documents/Java/Test/Person.java",
+		"/C/Users/Laurynas/Documents/Java/Test/Test.java",
+		"/C/Users/Laurynas/Desktop/Snippets/catch.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/class.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/constant.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/constant-string.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/abstract.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/assert.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/break.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Snippets/case.sublime-snippet",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/JavaRun.sublime-build",
+		"/C/Users/Laurynas/Documents/JAVA/Person.java",
+		"/C/Users/Laurynas/Documents/JAVA/Test.java",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/snippets/java-println.sublime-snippet",
+		"/C/Users/Laurynas/Documents/Java/SublimeJavaOld.txt",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.130/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.168/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.334/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.490/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DIa0.847/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.386/JavaC.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.316/JavaC.sublime-build",
+		"/C/Users/Laurynas/Documents/JAVA/[shell_cmd",
+		"/C/Users/Laurynas/.idlerc/recent-files.lst",
+		"/C/Users/Laurynas/.idlerc/breakpoints.lst",
+		"/C/Users/Laurynas/Documents/C++/Practice/pomidorai.out",
+		"/C/Users/Laurynas/Documents/C++/Practice/pomidorai.in",
+		"/C/Users/Laurynas/Downloads/LMIO-2017-2018-2etapas-CMS rezultatai.ods",
+		"/C/Users/Laurynas/Documents/C#/Pacman DeepMind/Pacman DeepMind/PathFinding.cs",
+		"/C/Users/Laurynas/Documents/C++/Practice/ne-didesnis.cpp",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.999/Nd5-1/main.cpp",
+		"/C/Users/Laurynas/Documents/C++/GrafuTeorija/Grafai/BMatrix.in",
+		"/C/Users/Laurynas/Documents/C++/MergingLists/main.cpp",
+		"/C/Users/Laurynas/Documents/C++/Grafai/BrILIst.cpp",
+		"/C/Users/Laurynas/Documents/C++/Grafai/BMatrix.in",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Assets/_Scripts/Game/PlayerController.cs",
+		"/C/Users/Laurynas/Documents/C++/Darzoves/main.cpp",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Assets/_Scripts/Game/CollectibleController.cs",
+		"/H/Python/ESJMK/Score.py",
+		"/H/Python/ESJMK/score.txt",
+		"/H/Python/ESJMK/score1.txt",
+		"/H/Python/ESJMK/score0.txt",
+		"/H/Python/ESJMK/score2.txt",
+		"/H/Python/ESJMK/Sorting.py",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/H/Python/Score.py",
+		"/H/Python/score.txt",
+		"/H/Python/Sorting.py",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/snippets/return.sublime-snippet",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py-file.sublime-snippet",
+		"/H/Python/Sorting",
+		"/C/Users/Laurynas/Documents/Python/Test.py",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/snippets/py-print.sublime-snippet",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/snippets/cpp-for.sublime-snippet",
+		"/C/Users/Laurynas/Desktop/Taupymas/Taupymas.cpp",
+		"/C/Users/Laurynas/Desktop/Moliugai/Moliugai.cpp",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Laurynas/Desktop/CollectibleController.cs",
+		"/C/Users/Laurynas/Desktop/CC5/Duom.txt",
+		"/H/Python/Test.py",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/Skaiciuotuvas.cpp",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/Pirminiai.cpp",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/SkaicDuom.txt",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/Aikstele.cpp",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/PirmDuom.txt",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.770/AikstDuom.txt",
+		"/C/Users/Laurynas/Documents/Visual Studio 2017/Projects/JKM_ITVBE/Pirminiai.cpp",
+		"/C/Users/Laurynas/Documents/Visual Studio 2017/Projects/JKM_ITVBE/Aikstele.cpp",
+		"/C/Users/Laurynas/Documents/Visual Studio 2017/Projects/JKM_ITVBE/Skaiciuotuvas.cpp",
+		"/C/Users/Laurynas/Downloads/install.bat",
+		"/H/Olimpiada/kortos-vyr.cpp",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.522/erdvelaivis/TEST5.DAT",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.508/erdvelaivis/TEST5.REZ",
+		"/C/Users/Laurynas/AppData/Local/Temp/Rar$DRa0.383/erdvelaivis/TEST0.REZ",
+		"/C/Users/Laurynas/Desktop/Test.cpp",
+		"/H/Apps/Sublime Text Build 3143/Data/Packages/User/Py.sublime-build",
+		"/C/Users/Laurynas/Documents/Python/1-100.py",
+		"/C/Users/Laurynas/Documents/C++/Mokyklai/main.cpp",
+		"/C/Users/Laurynas/AppData/Roaming/Sublime Text 3/Packages/User/C++_Run.sublime-build",
+		"/H/Test.cpp",
+		"/C/Users/Laurynas/Documents/C++/Pathfinding/main.cpp",
+		"/C/Users/Laurynas/Documents/C++/Nd5-1/miain.cpp",
+		"/C/Users/Laurynas/Documents/Python/ProtingaPr.py",
+		"/C/Users/Laurynas/Documents/Python/Skaiciuotuvas.py",
+		"/C/Users/Laurynas/Documents/Python/KryziukaiNuliukai/grafas.py",
+		"/C/Users/Laurynas/Documents/Python/KryziukaiNuliukai/main.py",
+		"/H/SkaiciuSeka/SkaiciuSeka.cpp",
+		"/H/Sublime Text Build 3143/sublime_plugin.py",
+		"/H/Sublime Text Build 3143/sublime.py",
+		"/C/Users/Laurynas/Desktop/IMG_0704.JPG"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"120",
+			"math.exp",
+			"exp",
+			"ireCount",
+			"exit",
+			"\"\\t\\t\"",
+			"cAngle",
+			"2f",
+			"cAngle",
+			"y",
+			"currAngle",
+			"math",
+			"0",
+			"'",
+			",",
+			"],",
+			"fout",
+			";",
+			"b0",
+			"int",
+			"score",
+			"int",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Score.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1231,
+								1231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Graphs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Sorting.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								740,
+								740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "DataManager.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Errors.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "score.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Log).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 182.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 145.0
+	},
+	"pinned_build_system": "",
+	"project": "DataManager.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
