@@ -6,23 +6,26 @@ import math
 
 def FillWeights(w):
 	"""Fills list w/ weights"""
-	w[0] = 14		# 14			# Collectible
-	w[1] = 3.5		# 3.59			# Time
-	w[2] = .5		# .53			# Fire time
+	w[0] = 5		# 14			# Collectible
+	w[4] = w[0] / 2.0				# Collectibles in inventory
+	w[1] = 2		# 3.59			# Time
+	w[2] = 1		# .53			# Fire time
 	w[3] = 1.5		# 1.55			# Fire time w/ collectibles
 
 
 def GenValues(givenTime, maxColl):
 	"""Generates random values"""
-	time = int(givenTime - (ran.randrange(givenTime) + 30))		#Time left
+	time = int(givenTime - (ran.randrange(givenTime) + 60))		#Time left
 
 	if time <= 0:
-		collCount = int(ran.randrange(maxColl - 1))
+		collCount = int(ran.randrange(maxColl))
+		curColl = int(ran.randrange(3 if (maxColl - collCount >= 2) else 2 if (maxColl - collCount == 1) else 0))
 		time = 0
 	else:
 		collCount = int(maxColl)
+		curColl = 0
 
-	fireTime = float(ran.uniform(0, givenTime - time))
+	fireTime = float(ran.uniform(0, 50))	# givenTime - time
 	fireCollTime = float(ran.uniform(0, fireTime))
 
 	if round(fireTime) != 0:
@@ -32,10 +35,10 @@ def GenValues(givenTime, maxColl):
 	else:
 		fireCount = 0
 
-	return time, collCount, fireTime, fireCollTime, fireCount
+	return time, collCount, curColl, fireTime, fireCollTime, fireCount
 
 
-def Score(w, time, collCount, fireTime, fireCollTime, fireCount):
+def Score(w, time, collCount, curColl, fireTime, fireCollTime, fireCount):
 	"""Calculates Score (0 <= score =< 1000)"""
 
 	# \/ OLD
@@ -44,18 +47,15 @@ def Score(w, time, collCount, fireTime, fireCollTime, fireCount):
 	# NEW
 	score = 0
 
-	func = lambda x: 2 ** x
-	# func = math.exp
-
 	# Good
-	score += + func(collCount) # * w[0]								# More collectibles collected
-	score += + time * w[1] 								# More time left
-
-	func = lambda x: x 
+	score += + (collCount) ** 2 * w[0]	# More collectibles collected
+	score += + (curColl) ** 2 * w[4]
+	score += + (time) * w[1] 				# More time left
 
 	# Bad
-	score += - ((fireTime - fireCollTime) * w[2]) * (func(fireCount) / 100 + 1) 		# More times entered the worse
-	score += - fireCollTime * w[3] * (func(fireCount) / 100 + 1)		# 
+	mul = fireCount / 100 + 1
+	score += - ((fireTime - fireCollTime) * w[2]) * mul		# More times entered the worse
+	score += - fireCollTime * w[3] * mul		# 
 
 	return score
 
@@ -79,23 +79,23 @@ FillWeights(W)
 with open(File, "w") as out:
 
 	# Possible values
-	out.write("MIN: {min:.2f}\n".format(min = Score(W, time = 0, collCount = 0, fireTime = 115, fireCollTime = 110, fireCount = 100)))
-	out.write("MAX: {max:.2f}\n".format(max = Score(W, time = 120, collCount = MaxColl, fireTime = 0, fireCollTime = 0, fireCount = 0)))
-	out.write("NONE: {non:.2f}\n".format(non = Score(W, time = 0, collCount = 0, fireTime = 0, fireCollTime = 0, fireCount = 0)))
+	out.write("MIN: {min:.2f}\n".format(min = Score(W, time = 0, collCount = 0, curColl = 0, fireTime = 115, fireCollTime = 110, fireCount = 100)))
+	out.write("MAX: {max:.2f}\n".format(max = Score(W, time = 120, collCount = MaxColl, curColl = 0, fireTime = 0, fireCollTime = 0, fireCount = 0)))
+	out.write("NONE: {non:.2f}\n".format(non = Score(W, time = 0, collCount = 0, curColl = 0, fireTime = 0, fireCollTime = 0, fireCount = 0)))
 
 	# Titles of the columns
-	out.write("Gen\t\tScore\tTime\tColl\t\tFire Times\n")
+	out.write("Gen\t\tScore\t\tTime\t\tColl\t\t\tFire Times\n")
 
 	# Generates 50 results
 	for x in range(50):
-		Time, CollCount, FireTime, FireCollTime, FireCount = GenValues(GivenTime, MaxColl)
+		Time, CollCount, CurColl, FireTime, FireCollTime, FireCount = GenValues(GivenTime, MaxColl)
 
-		score = Score(W, Time, CollCount, FireTime, FireCollTime, FireCount)
+		score = Score(W, Time, CollCount, CurColl, FireTime, FireCollTime, FireCount)
 
 		if score < 0:
 			print("Negative")
 
-		out.write("{:2}\t\t{:4.0f}\t\t{:2}\t\t{}\t\t{:6.2f}\t\t{:5.2f}\t\t{:3}\n".format(x, score, Time, CollCount, FireTime,FireCollTime, FireCount))
+		out.write("{:2}\t\t{:4.0f}\t\t{:2}\t\t{}\t\t{}\t\t{:6.2f}\t\t{:5.2f}\t\t{:3}\n".format(x, score, Time, CollCount, CurColl, FireTime,FireCollTime, FireCount))
 
 # Sorts data
 # Sorting.SortScores(filePath = File, ascending = True, orderBy = 1, ignLines = 4)

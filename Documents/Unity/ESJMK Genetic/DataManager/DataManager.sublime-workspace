@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"colo",
+				"color2"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Wri",
+				"WriteData"
+			],
+			[
+				"fun",
+				"func2"
+			],
+			[
+				"rea",
+				"ReadData"
+			],
+			[
 				"if",
 				"if\tIf Condition"
 			],
@@ -112,22 +132,11 @@
 	"buffers":
 	[
 		{
-			"file": "Score.py",
+			"file": "DataManager.py",
 			"settings":
 			{
-				"buffer_size": 2835,
+				"buffer_size": 154,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "import ",
-			"file": "Graphs.py",
-			"file_size": 0,
-			"file_write_time": 131596571615073580,
-			"settings":
-			{
-				"buffer_size": 7,
 				"line_ending": "Windows"
 			}
 		},
@@ -135,25 +144,25 @@
 			"file": "Sorting.py",
 			"settings":
 			{
-				"buffer_size": 1157,
+				"buffer_size": 1465,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "DataManager.py",
+			"file": "Graphs.py",
 			"settings":
 			{
-				"buffer_size": 308,
+				"buffer_size": 1191,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Errors.py",
+			"file": "Score.py",
 			"settings":
 			{
-				"buffer_size": 170,
+				"buffer_size": 3037,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -162,15 +171,7 @@
 			"file": "score.txt",
 			"settings":
 			{
-				"buffer_size": 1869,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
-			"settings":
-			{
-				"buffer_size": 64,
+				"buffer_size": 2022,
 				"line_ending": "Windows"
 			}
 		}
@@ -451,6 +452,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/DataManager/Score.png",
+		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/DataManager/Errors.py",
 		"/F/Apps/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
 		"/C/Users/Laurynas/Documents/Python/Data.log",
@@ -577,7 +580,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -591,6 +594,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"y",
+			"x",
+			"plt",
+			"20",
 			"120",
 			"math.exp",
 			"exp",
@@ -631,138 +638,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Score.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2835,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1231,
-								1231
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Graphs.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Sorting.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								740,
-								740
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "DataManager.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 308,
+						"buffer_size": 154,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166,
-								166
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Errors.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 170,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								170,
-								170
+								49,
+								49
 							]
 						],
 						"settings":
@@ -777,53 +670,123 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "score.txt",
+					"buffer": 1,
+					"file": "Sorting.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1869,
+						"buffer_size": 1465,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1011,
+								1011
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/C/Users/Laurynas/Documents/Unity/ESJMK Genetic/Data.log",
+					"buffer": 2,
+					"file": "Graphs.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 64,
+						"buffer_size": 1191,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								610,
+								610
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Log).sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Score.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1886,
+								1886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"file": "Data.png",
+					"semi_transient": false,
+					"stack_index": 1,
+					"type": "image"
+				},
+				{
+					"buffer": 4,
+					"file": "score.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1054,
+								1054
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -837,7 +800,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -852,11 +815,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.533276931754,
 			1.0
 		],
 		"rows":
@@ -882,7 +852,7 @@
 	"project": "DataManager.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":

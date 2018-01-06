@@ -35,22 +35,7 @@ def ReadData(filePath, ignLines):
 	return data, cont
 
 
-
-
-
-def SortScores(filePath, separator = "\t\t", ascending = False, orderBy = 1, ignLines = 1):
-	""" """
-	data, cont = ReadData(filePath, ignLines)
-
-	# Prep data for sorting
-	cont = [line.split(separator) for line in cont]
-	
-	# Sort data
-	if ascending:
-		data += Descending(ls = cont, e = orderBy)[::-1]
-	else:
-		data += Descending(ls = cont, e = orderBy)
-
+def WriteData(filePath, data, ignLines, separator):
 	# Writes sorted data back to file
 	with open(filePath, "w") as fv:
 		for x in range(ignLines):
@@ -58,3 +43,24 @@ def SortScores(filePath, separator = "\t\t", ascending = False, orderBy = 1, ign
 			
 		for line in data[ignLines:]:
 			fv.write(separator.join(line))
+
+
+def ConvertToArray(cont, separator):
+	"""Returns list of list of strings"""
+	return [line.split(separator) for line in cont]
+
+
+def SortScores(filePath, separator = "\t\t", ascending = False, orderBy = 1, ignLines = 1):
+	""" """
+	data, cont = ReadData(filePath, ignLines)
+
+	# Prep data for sorting
+	cont = ConvertToArray(cont, separator)
+	
+	# Sort data
+	if ascending:
+		data += Descending(ls = cont, e = orderBy)[::-1]
+	else:
+		data += Descending(ls = cont, e = orderBy)
+
+	WriteData(filePath, data, ignLines, separator)
