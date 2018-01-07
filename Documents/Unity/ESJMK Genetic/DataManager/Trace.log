@@ -1,0 +1,840 @@
+==========================================================================================================
+Generation:1 Population: 0 Time: 1/7/2018 10:56:03 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:2 Population: 0 Time: 1/7/2018 11:00:16 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:3 Population: 0 Time: 1/7/2018 11:04:28 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:4 Population: 0 Time: 1/7/2018 11:08:40 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:5 Population: 0 Time: 1/7/2018 11:12:52 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:6 Population: 0 Time: 1/7/2018 11:17:04 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:7 Population: 0 Time: 1/7/2018 11:19:30 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:8 Population: 0 Time: 1/7/2018 11:23:42 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:9 Population: 0 Time: 1/7/2018 11:24:42 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:10 Population: 0 Time: 1/7/2018 11:27:58 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:11 Population: 0 Time: 1/7/2018 11:32:10 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:12 Population: 0 Time: 1/7/2018 11:36:22 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:13 Population: 0 Time: 1/7/2018 11:40:34 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:14 Population: 0 Time: 1/7/2018 11:44:46 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:15 Population: 0 Time: 1/7/2018 11:45:57 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:16 Population: 0 Time: 1/7/2018 11:49:03 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:17 Population: 0 Time: 1/7/2018 11:49:53 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:18 Population: 0 Time: 1/7/2018 11:54:05 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:19 Population: 0 Time: 1/7/2018 11:58:17 AM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:20 Population: 0 Time: 1/7/2018 12:02:29 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:21 Population: 0 Time: 1/7/2018 12:04:55 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:22 Population: 0 Time: 1/7/2018 12:09:07 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:23 Population: 0 Time: 1/7/2018 12:10:07 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:24 Population: 0 Time: 1/7/2018 12:14:19 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:25 Population: 0 Time: 1/7/2018 12:15:00 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:26 Population: 0 Time: 1/7/2018 12:18:11 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:27 Population: 0 Time: 1/7/2018 12:22:23 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:28 Population: 0 Time: 1/7/2018 12:26:00 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:29 Population: 0 Time: 1/7/2018 12:30:12 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:30 Population: 0 Time: 1/7/2018 12:34:24 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:31 Population: 0 Time: 1/7/2018 12:35:04 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:32 Population: 0 Time: 1/7/2018 12:38:01 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:33 Population: 0 Time: 1/7/2018 12:38:46 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:34 Population: 0 Time: 1/7/2018 12:42:58 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:35 Population: 0 Time: 1/7/2018 12:47:10 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:36 Population: 0 Time: 1/7/2018 12:51:22 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:37 Population: 0 Time: 1/7/2018 12:55:34 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:38 Population: 0 Time: 1/7/2018 12:59:45 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:39 Population: 0 Time: 1/7/2018 1:00:41 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:40 Population: 0 Time: 1/7/2018 1:04:53 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:41 Population: 0 Time: 1/7/2018 1:05:33 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:42 Population: 0 Time: 1/7/2018 1:08:29 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:43 Population: 0 Time: 1/7/2018 1:12:41 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:44 Population: 0 Time: 1/7/2018 1:16:43 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:45 Population: 0 Time: 1/7/2018 1:20:55 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:46 Population: 0 Time: 1/7/2018 1:25:07 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:47 Population: 0 Time: 1/7/2018 1:26:02 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:48 Population: 0 Time: 1/7/2018 1:30:14 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: Second. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:49 Population: 0 Time: 1/7/2018 1:31:25 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:50 Population: 0 Time: 1/7/2018 1:35:37 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:51 Population: 0 Time: 1/7/2018 1:39:49 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:52 Population: 0 Time: 1/7/2018 1:44:00 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:53 Population: 0 Time: 1/7/2018 1:48:12 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:54 Population: 0 Time: 1/7/2018 1:52:25 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:55 Population: 0 Time: 1/7/2018 1:53:15 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:56 Population: 0 Time: 1/7/2018 1:57:27 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: First. 0:GoToFire 1:AvoidFire
+SelectorGene: Second. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:57 Population: 0 Time: 1/7/2018 1:58:17 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:58 Population: 0 Time: 1/7/2018 2:02:30 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: Second. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:59 Population: 0 Time: 1/7/2018 2:06:42 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: Second. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------
+==========================================================================================================
+Generation:60 Population: 0 Time: 1/7/2018 2:10:13 PM
+==========================================================================================================
+Go to Fire
+GoForward
+GoForCollectible
+AvoidFire
+SelectorGene: First. 0:GoToFire 1:GoForward
+SelectorGene: First. 0:GoToFire 1:GoForCollectible
+SelectorGene: Second. 0:GoForward 1:GoForCollectible
+SelectorGene: Second. 0:GoToFire 1:AvoidFire
+SelectorGene: First. 0:GoForward 1:AvoidFire
+SelectorGene: First. 0:GoForCollectible 1:AvoidFire
+----------------------------------------------------------------------------------------------------------

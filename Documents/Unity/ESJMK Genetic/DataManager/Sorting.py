@@ -11,9 +11,9 @@ def Descending(ls, e):
 
 		for j in range(i + 1, len(ls)):
 
-			if float(ls[i][e]) < float(ls[j][e]):
+			if float(ls[i][e]) > float(ls[j][e]):
 
-				ls[i], ls[j] = ls[j], ls[i]		#swap
+				ls[i][1:], ls[j][1:] = ls[j][1:], ls[i][1:]		#swap
 	return ls
 
 
